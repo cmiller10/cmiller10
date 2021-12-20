@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cmiller10
-- 👀 I’m interested in ... climate science, climate scenario modelling, econometrics, NGFS scenarios 
+- 👀 I’m interested in ... climate science, climate scenario modelling,  econometrics, NGFS scenarios, IAMs 
 - 🌱 I’m currently learning ... R, SQL, VBA 
 - 💞️ I’m looking to collaborate on ... climate scenario analysis, carbon data visualisation and analytics 
 - 📫 How to reach me ... charlesmiller.ae@gmail.com
